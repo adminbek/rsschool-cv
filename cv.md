@@ -7,11 +7,15 @@
 
 ### Contact information:
 
-<b>Phone:</b> +99 823 42 64 </br>
-<b>E-mail:</b> abdulazizov.mardon1996@mail.ru </br>
-<b>Telegram:</b> @mardonbek1996
+**Phone:** +99 823 42 64 
 
-[LinkedIn](https://linkeIn.com)</br>
+
+**E-mail:** abdulazizov.mardon1996@mail.ru 
+
+
+**Telegram:** @mardonbek1996
+
+[LinkedIn](https://linkeIn.com)
 [Behance](./Markdown.md)
 
 
